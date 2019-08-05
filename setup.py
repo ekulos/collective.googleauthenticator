@@ -55,7 +55,6 @@ setup(
         'setuptools',
         # -*- Extra requirements: -*-
         'plone.api>=1.1.0',
-        'plone.directives.form>=1.1',
         'onetimepass==0.2.2',
         'ska>=1.1',
         'rebus>=0.1',
